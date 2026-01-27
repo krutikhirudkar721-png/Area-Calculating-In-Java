@@ -1,12 +1,12 @@
 # Area-Calculating-In-Java
 # WAP using class Rectangle and calculate area using method
 
-import java.util.Scanner;
+    import java.util.Scanner;
 
-/**
- * Main class to handle user input and rectangle calculations.
- */
-public class MyProgram {
+    /**
+     * Main class to handle user input and rectangle calculations.
+     */
+    public class MyProgram {
     public static void main(String[] args) {
         // Use try-with-resources to ensure the Scanner closes automatically
         try (Scanner sc = new Scanner(System.in)) {
@@ -26,10 +26,10 @@ public class MyProgram {
     }
 }
 
-/**
- * Rectangle class representing the geometric shape.
- */
-class Rectangle {
+    /**
+     * Rectangle class representing the geometric shape.
+     */
+    class Rectangle {
     private float height;
     private float width;
 
