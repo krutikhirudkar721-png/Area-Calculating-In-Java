@@ -1,7 +1,6 @@
 class A {
     protected int i;
     int j;
-
     void showij() {
         System.out.println("inside class A:i=" + i + " j=" + j);
     }
@@ -9,7 +8,6 @@ class A {
 
 class B extends A {
     int k;
-
     void showk() {
         System.out.println("inside class B:k=" + k);
     }
@@ -21,7 +19,6 @@ class B extends A {
 
 class C extends B {
     int m;
-
     void showm() {
         System.out.println("inside class C:m=" + m);
     }
