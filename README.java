@@ -1,5 +1,5 @@
-# Area-Calculating-In-Java
-# Write a Program using class Rectangle and calculate area using (method)
+//Area-Calculating-In-Java
+// Write a Program using class Rectangle and calculate area using (method)
 
 import java.util.Scanner;
 public class MyProgram {
