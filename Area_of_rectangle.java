@@ -18,7 +18,6 @@ public class MyProgram {
 
             // Display results
             r1.displayDetails();
-
         } catch (Exception e) {
             System.err.println("Invalid input. Please enter numeric values.");
         }
