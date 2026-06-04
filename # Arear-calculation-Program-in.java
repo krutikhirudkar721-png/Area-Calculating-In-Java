@@ -1,5 +1,5 @@
-# Calculating area of the Cube
-# CODE
+// # Calculating area of the Cube
+// # CODE
 
     import java.util.*;
 
