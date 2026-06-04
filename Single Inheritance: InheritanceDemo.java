@@ -6,7 +6,8 @@ class A {
     }
 }
 
-class B extends A { // inheritance
+class B extends A { 
+    // inheritance
     int k;
     void showk() {
         System.out.println("k=" + k);
