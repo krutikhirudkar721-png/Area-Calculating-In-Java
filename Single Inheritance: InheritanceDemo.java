@@ -6,6 +6,7 @@ class A {
     }
 }
 
+
 class B extends A { 
     // inheritance
     int k;
@@ -16,6 +17,7 @@ class B extends A {
         System.out.println("i+j+k=" + (i + j + k));
     }
 }
+
 
 class InheritanceDemo {
     public static void main(String[] args) {
