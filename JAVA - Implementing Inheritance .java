@@ -10,7 +10,6 @@ class Person {
 class Employee extends Person {
     int empID;
     String designation;
-
     Employee(String name, long contact, int empID, String designation) {
         super(name, contact);
         this.empID = empID;
