@@ -1,7 +1,6 @@
 class Person {
     String name;
     long contact;
-
     Person(String name, long contact) {
         this.name = name;
         this.contact = contact;
