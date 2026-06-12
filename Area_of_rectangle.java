@@ -41,7 +41,6 @@ class Rectangle {
     public void setHeight(float height) {
         this.height = (height > 0) ? height : 0;
     }
-
     public void setWidth(float width) {
         this.width = (width > 0) ? width : 0;
     }
