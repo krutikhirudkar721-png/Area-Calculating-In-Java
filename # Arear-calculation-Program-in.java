@@ -15,7 +15,6 @@
         float height;
         float width;
         float depth;
-
         float calculateVolume(float h, float w, float d) {
             this.height = h;
             this.width = w;
