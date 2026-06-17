@@ -8,6 +8,7 @@ class A {
     }
 }
 
+
 class B extends A {
     int k;
     void showk() {
