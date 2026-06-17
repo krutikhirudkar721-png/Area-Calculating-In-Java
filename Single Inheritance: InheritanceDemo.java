@@ -33,6 +33,6 @@ class InheritanceDemo {
         System.out.println("Output");
         superObjA.showij();
         subObjB.showk();
-        subObjB.add();
+        subObjB.add()
     }
 }
